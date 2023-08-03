@@ -9,8 +9,6 @@ A tiny JS app to be run in the command line to generate quick and professional R
 
 A video explanation of the app can be found at this [link](https://drive.google.com/file/d/11WcatuBpOHbbhQr4jRmUIZgNLF2p4fJG/view?usp=sharing) 
 
-A video explanation of the app can be found at this [link](https://drive.google.com/file/d/11WcatuBpOHbbhQr4jRmUIZgNLF2p4fJG/view?usp=sharing) 
-
 ## Table of Contents
 
 * [Installation](#installation)
